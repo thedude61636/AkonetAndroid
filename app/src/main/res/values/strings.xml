@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Akonet</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_network">Network Error</string>
+    <string name="data_refreshed">Updated</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="loss">Loss: %s\%</string>
+    <string name="ping">Ping: %s ms</string>
+    <string name="last_up">Last up: %s</string>
+    <string name="last_down">Ping: %s ms</string>
+</resources>
